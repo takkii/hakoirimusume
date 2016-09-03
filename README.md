@@ -6,4 +6,4 @@
 
 ・ Q&Aなど
 
-こちらのissuesによろしくどうぞ。
+こちらの[issues](https://github.com/takkii/hakoirimusume/issues/1)によろしくどうぞ。
